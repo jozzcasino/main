@@ -4,6 +4,7 @@ AddType application/x-javascript .js
 AddType text/css .css
 AddType text/xml .xml
 AddType application/octet-stream .doc .mov .avi .pdf .xls 
+Header append Vary User-Agent
 # ForceType application/x-httpd-php
 
 <ifModule mod_deflate.c>

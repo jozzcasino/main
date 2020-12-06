@@ -1,0 +1,148 @@
+{
+    "dir": "ltr",
+    "lang": "ru",
+    "name": "Jozz Casino …",
+    "short_name": "Jozz Casino …",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://jozzcasino.github.io/",
+    "background_color": "#000000",
+    "theme_color": "#34424c",
+    "description": "Вход на официальный сайт онлайн казино Jozz это зал с лицензионными игровыми автоматами и слотами. Играйте в легендарные игры казино 777 с бонусами и быстрыми выплатами!",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/cc97094e-be2e-d5c5-aa8d-678ef9967fc3.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b54d31c2-8b08-b9d6-5783-23cf805e687c.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ecf3f5fb-3c95-5f99-e079-0558c84430d6.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d164de2c-2fbf-9966-e2d0-67b4f1f0be4a.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e5927b28-843a-ac39-43c9-be6bc72b59ba.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b1e428a8-2298-aaf7-392b-4e72e12842d2.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/83a2ac0c-7802-696f-cada-bce522ae0aaf.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/aa33b822-b55d-e97b-3bf4-a4f67958628a.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9e212ea8-659e-3b58-19bc-4a50a20e9756.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/64980630-b93f-2424-2f67-fc1129b3b388.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e402da04-f130-5fd1-33c2-6a63d2dfc71c.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/39d72664-9dc3-01f5-1d30-6e9be3324fc0.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/755f7cf4-bc05-db80-ed28-0093bdf28da1.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2d04801f-7037-9ddb-a6c3-a69c4c79dfaa.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a7f1ef32-1a78-cbb5-1d07-b56fd7eccb7c.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f9312143-c8d6-1793-8c96-f6d77c6ebc5e.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/209d5c2e-5e91-057b-d44f-73f67d8813e9.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/37657537-f5ff-275d-6da5-260421cf5cc2.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d585994b-a215-22b8-ea37-576627b36a67.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ea234b7b-b9d4-f34e-2e77-e436f1970326.webPlatform.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://jozzcasino.github.io/",
+    "screenshots": [
+        {
+            "src": "Assets/screenshot1.png",
+            "sizes": "1280x800",
+            "type": "image/png",
+            "fileName": "Assets/screenshot1.png",
+            "generated": true
+        },
+        {
+            "src": "Assets/screenshot2.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "fileName": "Assets/screenshot2.png",
+            "generated": true
+        },
+        {
+            "src": "Assets/screenshot1.png",
+            "sizes": "1280x800",
+            "type": "image/png",
+            "fileName": "Assets/screenshot1.png",
+            "generated": true
+        },
+        {
+            "src": "Assets/screenshot2.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "fileName": "Assets/screenshot2.png",
+            "generated": true
+        }
+    ]
+}

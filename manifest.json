@@ -1,14 +1,14 @@
 {
     "dir": "ltr",
     "lang": "ru",
-    "name": "Jozz Casino …",
-    "short_name": "Jozz Casino …",
+    "name": "Jozz Casino",
+    "short_name": "Jozz Casino",
     "scope": "/",
     "display": "browser",
     "start_url": "https://jozzcasino.github.io/",
     "background_color": "#000000",
     "theme_color": "#34424c",
-    "description": "Вход на официальный сайт онлайн казино Jozz это зал с лицензионными игровыми автоматами и слотами. Играйте в легендарные игры казино 777 с бонусами и быстрыми выплатами!",
+    "description": "Вход на официальный сайт онлайн казино Jozz это зал с лицензионными игровыми автоматами и слотами. Играйте в легендарные игры казино с бонусами и быстрыми выплатами!",
     "orientation": "any",
     "related_applications": [],
     "prefer_related_applications": false,
@@ -116,20 +116,6 @@
     ],
     "url": "https://jozzcasino.github.io/",
     "screenshots": [
-        {
-            "src": "Assets/screenshot1.png",
-            "sizes": "1280x800",
-            "type": "image/png",
-            "fileName": "Assets/screenshot1.png",
-            "generated": true
-        },
-        {
-            "src": "Assets/screenshot2.png",
-            "sizes": "750x1334",
-            "type": "image/png",
-            "fileName": "Assets/screenshot2.png",
-            "generated": true
-        },
         {
             "src": "Assets/screenshot1.png",
             "sizes": "1280x800",

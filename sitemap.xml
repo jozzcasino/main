@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jozzcasino.github.io/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
@@ -11,52 +11,16 @@
       </image:image>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="kz-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
-  </url>
-  <url>
-    <loc>https://jozzcasino.github.io/by/</loc>
-    <lastmod>2021-03-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/main-logo.svg</image:loc>
-        <image:title>Jozer</image:title>
-      </image:image>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
-  </url>
-  <url>
-    <loc>https://jozzcasino.github.io/md/</loc>
-    <lastmod>2021-03-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/main-logo.svg</image:loc>
-        <image:title>Jozer</image:title>
-      </image:image>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="by-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/kz/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -65,16 +29,70 @@
       </image:image>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="kz-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="by-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/by/</loc>
+    <lastmod>2021-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/main-logo.svg</image:loc>
+        <image:title>Jozer</image:title>
+      </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="kz-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="by-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/md/</loc>
+    <lastmod>2021-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/main-logo.svg</image:loc>
+        <image:title>Jozer</image:title>
+      </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="kz-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="by-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/az/</loc>
+    <lastmod>2021-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/main-logo.svg</image:loc>
+        <image:title>Jozer</image:title>
+      </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="kz-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="by-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/en/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -83,40 +101,21 @@
       </image:image>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="kz-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="by-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/play.html</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://jozzcasino.github.io/az/</loc>
-    <lastmod>2021-03-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/main-logo.svg</image:loc>
-        <image:title>Jozer</image:title>
-      </image:image>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/uz/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -125,9 +124,9 @@
       </image:image>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="kz-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="by-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
     <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>

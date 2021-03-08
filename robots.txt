@@ -1,3 +1,4 @@
 User-agent: *
 Allow: *
 Sitemap: https://jozzcasino.github.io/sitemap.xml
+Host: jozzcasino.github.io

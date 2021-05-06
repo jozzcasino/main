@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jozzcasino.github.io/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
@@ -140,7 +140,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/by/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/md/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -175,8 +175,182 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/banner_tjvrzv_c_scale,w_3840.jpg</image:loc>
+        <image:title>Бонус казино Jozz на любой депозит</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-pinkelephants2.jpg?ver=3350</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-pinkelephants.jpg</image:loc>
+        <image:title>Pink Elephants</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-midasgoldentouch.jpg</image:loc>
+        <image:title>Midas Golden Touch</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-1429unchartedseas.jpg</image:loc>
+        <image:title>1429 Uncharted Seas</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-babushkas.jpg</image:loc>
+        <image:title>Babushkas</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-barbershopuncut.jpg</image:loc>
+        <image:title>Barber Shop Uncut</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastcerberusinferno.jpg</image:loc>
+        <image:title>Beat The Beast: Cerberus' Inferno</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastgriffinsgold.jpg</image:loc>
+        <image:title>Beat The Beast: Griffin´s Gold</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastkrakenslair.jpg</image:loc>
+        <image:title>Beat The Beast: Kraken's Lair</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastmightysphinx.jpg</image:loc>
+        <image:title>Beat The Beast: Mighty Sphinx</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastquetzalcoatlstrial.jpg</image:loc>
+        <image:title>Beat The Beast: Quetzalcoatl's Trial</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-birdsonawire.jpg</image:loc>
+        <image:title>Birds On A Wire</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-borktheberzerker.jpg</image:loc>
+        <image:title>Bork The Berzerker® Hack ‘n’ Slash Edition</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-carnivalqueen.jpg</image:loc>
+        <image:title>Carnival Queen</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-cosmicvoyager.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-crystalquestdeepjungle.jpg</image:loc>
+        <image:title>Crystal Quest: Deep Jungle</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-crystalquestfrostlands.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-divinelotus.jpg</image:loc>
+        <image:title>Divine Lotus</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-dragonhorn.jpg</image:loc>
+        <image:title>Dragon Horn</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-esqueletoexplosivo.jpg</image:loc>
+        <image:title>Esqueleto Explosivo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-esqueletoexplosivo2.jpg</image:loc>
+        <image:title>Esqueleto Explosivo 2</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-flux.jpg</image:loc>
+        <image:title>Flux</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-fruitwarp.jpg</image:loc>
+        <image:title>Fruit Warp</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-fullmoonromance.jpg</image:loc>
+        <image:title>Full Moon Romance</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-jaguartemple.jpg</image:loc>
+        <image:title>Jaguar Temple</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-luchadora.jpg</image:loc>
+        <image:title>Luchadora</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-magicious.jpg</image:loc>
+        <image:title>Magicious</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-notenoughkittens.jpg</image:loc>
+        <image:title>Not Enough Kittens</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-ravenseye.jpg</image:loc>
+        <image:title>Raven's Eye</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-ridersofthestorm.jpg</image:loc>
+        <image:title>Riders Of The Storm</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-spectra.jpg</image:loc>
+        <image:title>Spectra</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-sunsetdelight.jpg</image:loc>
+        <image:title>Sunset Delight</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-swordofkhans.jpg</image:loc>
+        <image:title>Sword Of Khans</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-thefalconhuntress.jpg</image:loc>
+        <image:title>The Falcon Huntress</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-therift.jpg</image:loc>
+        <image:title>The Rift</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-tokitime.jpg</image:loc>
+        <image:title>Toki Time</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-turningtotems.jpg</image:loc>
+        <image:title>Turning Totems</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-wellofwonders.jpg</image:loc>
+        <image:title>Well Of Wonders</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-wildheistatpeacockmanor.jpg</image:loc>
+        <image:title>Wild Heist At Peacock Manor</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-yeti.jpg</image:loc>
+        <image:title>Yeti Battle Of Greenhat Peak</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-zoom.jpg</image:loc>
+        <image:title>Zoom</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -257,8 +431,26 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/uz/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/banner_tjvrzv_c_scale,w_3840.jpg</image:loc>
+        <image:title>Бонус казино Jozz на любой депозит</image:title>
+      </image:image>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="uz-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="be-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -703,8 +895,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/uz/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/kz/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -722,25 +914,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/en/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/banner_tjvrzv_c_scale,w_3840.jpg</image:loc>
-        <image:title>Бонус казино Jozz на любой депозит</image:title>
-      </image:image>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://jozzcasino.github.io/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://jozzcasino.github.io/kz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="uz-UZ" href="https://jozzcasino.github.io/uz/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="be-BY" href="https://jozzcasino.github.io/by/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="az-AZ" href="https://jozzcasino.github.io/az/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="ru-MD" href="https://jozzcasino.github.io/md/"></xhtml:link>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jozzcasino.github.io/en/"></xhtml:link>
-  </url>
-  <url>
-    <loc>https://jozzcasino.github.io/kz/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -758,13 +932,13 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/play.html</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/az/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -782,7 +956,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/allways-fruits/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -791,18 +965,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/hot-27/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/hotfruits27.jpg</image:loc>
-        <image:title>Amatic - Hot 27</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/hot-scatter/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -811,8 +975,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/hot-27/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/hotfruits27.jpg</image:loc>
+        <image:title>Amatic - Hot 27</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/royal-unicorn/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -821,18 +995,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/lucky-respin/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/luckyrespin.jpg</image:loc>
-        <image:title>Amatic - Lucky Respin</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/super-cats/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -841,8 +1005,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/lucky-respin/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/luckyrespin.jpg</image:loc>
+        <image:title>Amatic - Lucky Respin</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/island2/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -851,18 +1025,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/diamond-cats/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/diamondcats.jpg</image:loc>
-        <image:title>Amatic - Diamond Cats</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/grand-x/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -871,28 +1035,18 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/hot-star/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/thunderkick/spectra/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/hotstar.jpg</image:loc>
-        <image:title>Amatic - Hot Star</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://jozzcasino.github.io/amatic/wild-stars/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/wildstars.jpg</image:loc>
-        <image:title>Amatic - Wild Stars</image:title>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-spectra.jpg</image:loc>
+        <image:title>Thunderkick - Spectra </image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/blue-dolphin/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -901,8 +1055,28 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/hot-star/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/hotstar.jpg</image:loc>
+        <image:title>Amatic - Hot Star</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/amatic/diamond-cats/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/diamondcats.jpg</image:loc>
+        <image:title>Amatic - Diamond Cats</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/princess-of-pearls/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -911,8 +1085,28 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/wild-stars/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/wildstars.jpg</image:loc>
+        <image:title>Amatic - Wild Stars</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/beat-the-beast-mighty-sphinx/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastmightysphinx.jpg</image:loc>
+        <image:title>Thunderkick - Beat The Beast Mighty Sphinx </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/gnome/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -922,7 +1116,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/golden-quest/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -931,18 +1125,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/flying-dutchman/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/flyingdutchman.jpg</image:loc>
-        <image:title>Amatic - Flying Dutchman</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/king-of-dwarves/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -951,8 +1135,48 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/sunset-delight/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-sunsetdelight.jpg</image:loc>
+        <image:title>Thunderkick - Sunset Delight </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/dragon-horn/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-dragonhorn.jpg</image:loc>
+        <image:title>Thunderkick - Dragon Horn </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/amatic/flying-dutchman/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/flyingdutchman.jpg</image:loc>
+        <image:title>Amatic - Flying Dutchman</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/wild-heist-at-peacock-manor/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-wildheistatpeacockmanor.jpg</image:loc>
+        <image:title>Thunderkick - Wild Heist At Peacock Manor </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/hot-81/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -961,8 +1185,28 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/ravens-eye/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-ravenseye.jpg</image:loc>
+        <image:title>Thunderkick - Ravens Eye </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/1429-uncharted-seas/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-1429unchartedseas.jpg</image:loc>
+        <image:title>Thunderkick - 1429 Uncharted Seas </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/luckyhaunter/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -971,28 +1215,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/hot-fruits-100/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/hotfruits100.jpg</image:loc>
-        <image:title>Amatic - Hot Fruits 100</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://jozzcasino.github.io/amatic/allways-win/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/allwayswin.jpg</image:loc>
-        <image:title>Amatic - Allways Win</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/igrosoft/garage/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1001,8 +1225,28 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/allways-win/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/allwayswin.jpg</image:loc>
+        <image:title>Amatic - Allways Win</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/amatic/hot-fruits-100/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/hotfruits100.jpg</image:loc>
+        <image:title>Amatic - Hot Fruits 100</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/island/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1012,7 +1256,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/book-of-pharao/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1021,8 +1265,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/zoom/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-zoom.jpg</image:loc>
+        <image:title>Thunderkick - Zoom </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/dragons-gift/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1032,7 +1286,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/grand-fruits/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1042,7 +1296,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/hottest-fruits-40/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1051,18 +1305,38 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/hot-fruits-20/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/thunderkick/beat-the-beast-griffins-gold/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/hotfruits20.jpg</image:loc>
-        <image:title>Amatic - Hot Fruits 20</image:title>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastgriffinsgold.jpg</image:loc>
+        <image:title>Thunderkick - Beat The Beast Griffins Gold </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/not-enough-kittens/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-notenoughkittens.jpg</image:loc>
+        <image:title>Thunderkick - Not Enough Kittens </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/amatic/chinese-spider/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/chinesespider.jpg</image:loc>
+        <image:title>Amatic - Chinese Spider</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/igrosoft/theheat/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1071,8 +1345,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/hot-fruits-20/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/hotfruits20.jpg</image:loc>
+        <image:title>Amatic - Hot Fruits 20</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/diamond-monkey-all/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1082,7 +1366,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/lady-fruits-20/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1091,18 +1375,18 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/chinese-spider/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/thunderkick/sword-of-khans/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/chinesespider.jpg</image:loc>
-        <image:title>Amatic - Chinese Spider</image:title>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-swordofkhans.jpg</image:loc>
+        <image:title>Thunderkick - Sword Of Khans </image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/book-of-fortune/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1112,7 +1396,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/book-of-aztec/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1122,7 +1406,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/casinova/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1131,8 +1415,38 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/beat-the-beast-krakens-lair/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastkrakenslair.jpg</image:loc>
+        <image:title>Thunderkick - Beat The Beast Krakens Lair </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/pink-elephants-2/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-pinkelephants2.jpg</image:loc>
+        <image:title>Thunderkick - Pink Elephants 2 </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/cosmic-voyager/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-cosmicvoyager.png</image:loc>
+        <image:title>Thunderkick - Cosmic Voyager</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/enchanted-cleopatra/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1141,18 +1455,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/beauty-fairy/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/beautyfairy.jpg</image:loc>
-        <image:title>Amatic - Beauty Fairy</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/fortune-girl/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1161,8 +1465,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/beauty-fairy/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/beautyfairy.jpg</image:loc>
+        <image:title>Amatic - Beauty Fairy</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/grand-casanova/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1171,18 +1485,18 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/fire-queen/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/thunderkick/luchadora/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/firequeen.jpg</image:loc>
-        <image:title>Amatic - Fire Queen</image:title>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-luchadora.jpg</image:loc>
+        <image:title>Thunderkick - Luchadora </image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/magic-idol/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1191,28 +1505,18 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/igrosoft/crazymonkey/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/amatic/fire-queen/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/igrosoft/crazymonkey.jpg</image:loc>
-        <image:title>Igrosoft - Crazymonkey</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://jozzcasino.github.io/amatic/lovely-lady-x-mas/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/lovelyladyxmas.jpg</image:loc>
-        <image:title>Amatic - Lovely Lady X Mas</image:title>
+        <image:loc>https://jozzcasino.github.io/images/amatic/firequeen.jpg</image:loc>
+        <image:title>Amatic - Fire Queen</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/la-gran-aventura/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1221,8 +1525,38 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/igrosoft/crazymonkey/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/igrosoft/crazymonkey.jpg</image:loc>
+        <image:title>Igrosoft - Crazymonkey</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/birds-on-a-wire/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-birdsonawire.jpg</image:loc>
+        <image:title>Thunderkick - Birds On A Wire </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/amatic/lovely-lady-x-mas/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/lovelyladyxmas.jpg</image:loc>
+        <image:title>Amatic - Lovely Lady X Mas</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/eye-of-ra/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1231,8 +1565,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/pink-elephants/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-pinkelephants.jpg</image:loc>
+        <image:title>Thunderkick - Pink Elephants </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/allways-hot-fruits/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1241,8 +1585,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/jaguar-temple/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-jaguartemple.jpg</image:loc>
+        <image:title>Thunderkick - Jaguar Temple </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/plenty-dragons/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1252,7 +1606,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/fruit-express/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1262,7 +1616,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/lucky-bells/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1271,8 +1625,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/igrosoft/sweetlife/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/igrosoft/sweetlife.jpg</image:loc>
+        <image:title>Igrosoft - Sweetlife</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/lucky-joker-100/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1282,7 +1646,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/sakura-fruits/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1291,28 +1655,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/hottest-fruits-20/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/hottestfruits20.jpg</image:loc>
-        <image:title>Amatic - Hottest Fruits 20</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://jozzcasino.github.io/amatic/lucky-zodiac3/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/luckyzodiac.jpg</image:loc>
-        <image:title>Amatic - Lucky Zodiac</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/cool-diamons-ii/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1321,8 +1665,28 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/lucky-zodiac3/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/luckyzodiac.jpg</image:loc>
+        <image:title>Amatic - Lucky Zodiac</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/amatic/hottest-fruits-20/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/hottestfruits20.jpg</image:loc>
+        <image:title>Amatic - Hottest Fruits 20</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/lucky-egypt/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1332,7 +1696,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/lucky-joker-20/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1341,8 +1705,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/riders-of-the-storm/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-ridersofthestorm.jpg</image:loc>
+        <image:title>Thunderkick - Riders Of The Storm </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/bells-on-fire/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1352,7 +1726,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/lucky-joker-5/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1362,7 +1736,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/lucky-little-devil/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1371,8 +1745,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/bork-the-berzerker-hack-n-slash-edition/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-borktheberzerker.jpg</image:loc>
+        <image:title>Thunderkick - Bork The Berzerker Hack N Slash Edition </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/fruitcocktail2/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1382,7 +1766,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/hot-choice-deluxe/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1392,7 +1776,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/admiral-nelson/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1402,7 +1786,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/fruit-box/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1411,8 +1795,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/carnival-queen/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-carnivalqueen.jpg</image:loc>
+        <image:title>Thunderkick - Carnival Queen </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/crazymonkey2/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1422,7 +1816,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/book-of-fruits-halloween/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1432,7 +1826,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/beauty-warrior/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1441,18 +1835,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/igrosoft/sweetlife/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/igrosoft/sweetlife.jpg</image:loc>
-        <image:title>Igrosoft - Sweetlife</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/wild-respin/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1462,7 +1846,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/igrosoft/pirate/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1472,7 +1856,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/lovely-lady-deluxe/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1482,7 +1866,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/big-panda/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1491,8 +1875,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/the-falcon-huntress/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-thefalconhuntress.jpg</image:loc>
+        <image:title>Thunderkick - The Falcon Huntress </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/tiki-madness-100/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1501,18 +1895,18 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/book-of-fruits/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/thunderkick/crystal-quest-deep-jungle/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/bookoffruits.jpg</image:loc>
-        <image:title>Amatic - Book Of Fruits</image:title>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-crystalquestdeepjungle.jpg</image:loc>
+        <image:title>Thunderkick - Crystal Quest Deep Jungle </image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/wild-dragon/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1521,8 +1915,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/book-of-fruits/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/bookoffruits.jpg</image:loc>
+        <image:title>Amatic - Book Of Fruits</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/sweetlife2/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1532,7 +1936,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/fortunas-fruits/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1541,8 +1945,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/esqueleto-explosivo/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-esqueletoexplosivo.jpg</image:loc>
+        <image:title>Thunderkick - Esqueleto Explosivo </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/all-ways-joker/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1551,18 +1965,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/oktoberfest/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/oktoberfest.jpg</image:loc>
-        <image:title>Amatic - Oktoberfest</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/hot-fruits-27/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1571,8 +1975,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/oktoberfest/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/oktoberfest.jpg</image:loc>
+        <image:title>Amatic - Oktoberfest</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/pumpkinfairy/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1581,18 +1995,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/hot-scatter-deluxe/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/hotscatterdeluxe.jpg</image:loc>
-        <image:title>Amatic - Hot Scatter Deluxe</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/lucky-joker-40/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1601,8 +2005,28 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/hot-scatter-deluxe/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/hotscatterdeluxe.jpg</image:loc>
+        <image:title>Amatic - Hot Scatter Deluxe</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/divine-lotus/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-divinelotus.jpg</image:loc>
+        <image:title>Thunderkick - Divine Lotus </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/hot-7/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1612,7 +2036,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/hot-twenty/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1622,7 +2046,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/magic-owl/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1632,7 +2056,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/igrosoft/pirate2/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1641,8 +2065,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/turning-totems/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-turningtotems.jpg</image:loc>
+        <image:title>Thunderkick - Turning Totems </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/rockclimber/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1651,28 +2085,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/book-of-lords/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/bookoflords.jpg</image:loc>
-        <image:title>Amatic - Book Of Lords</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://jozzcasino.github.io/amatic/dia-muertos/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/diamuertos.jpg</image:loc>
-        <image:title>Amatic - Dia Muertos</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/lucky-coin/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1681,8 +2095,28 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/book-of-lords/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/bookoflords.jpg</image:loc>
+        <image:title>Amatic - Book Of Lords</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/toki-time/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-tokitime.jpg</image:loc>
+        <image:title>Thunderkick - Toki Time </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/mega-shark/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1691,8 +2125,28 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/dia-muertos/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/diamuertos.jpg</image:loc>
+        <image:title>Amatic - Dia Muertos</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/beat-the-beast-quetzalcoatls-trial/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastquetzalcoatlstrial.jpg</image:loc>
+        <image:title>Thunderkick - Beat The Beast Quetzalcoatls Trial </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/golden-joker/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1701,18 +2155,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/aztec-secret/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/aztecsecret.jpg</image:loc>
-        <image:title>Amatic - Aztec Secret</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/dragons-pearl/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1721,8 +2165,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/aztec-secret/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/aztecsecret.jpg</image:loc>
+        <image:title>Amatic - Aztec Secret</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/igrosoft/fruitcocktail/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1731,18 +2185,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/wolf-moon/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/wolfmoon.jpg</image:loc>
-        <image:title>Amatic - Wolf Moon</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/party-night/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1752,7 +2196,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/red-chilli/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1761,8 +2205,28 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/wolf-moon/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/wolfmoon.jpg</image:loc>
+        <image:title>Amatic - Wolf Moon</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/magicious/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-magicious.jpg</image:loc>
+        <image:title>Thunderkick - Magicious </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/crazy-bee/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1772,7 +2236,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/scarab-treasure/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1781,8 +2245,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/crystal-quest-frostlands/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-crystalquestfrostlands.png</image:loc>
+        <image:title>Thunderkick - Crystal Quest Frostlands</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/magic-forest/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1791,18 +2265,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/cool-diamonds-2/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/cooldiamondsii.jpg</image:loc>
-        <image:title>Amatic - Cool Diamonds 2</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/hot-choice/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1811,8 +2275,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/well-of-wonders/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-wellofwonders.jpg</image:loc>
+        <image:title>Thunderkick - Well Of Wonders </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/golden-book/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1821,8 +2295,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/cool-diamonds-2/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/cooldiamondsii.jpg</image:loc>
+        <image:title>Amatic - Cool Diamonds 2</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/lovely-lady/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1831,18 +2315,18 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/igrosoft/keks/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/thunderkick/the-rift/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/igrosoft/keks.jpg</image:loc>
-        <image:title>Igrosoft - Keks</image:title>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-therift.jpg</image:loc>
+        <image:title>Thunderkick - The Rift </image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/casanova/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1852,7 +2336,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/hot-diamonds/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1861,8 +2345,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/igrosoft/keks/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/igrosoft/keks.jpg</image:loc>
+        <image:title>Igrosoft - Keks</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/hot-fruits-deluxe/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1871,8 +2365,38 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/full-moon-romance/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-fullmoonromance.jpg</image:loc>
+        <image:title>Thunderkick - Full Moon Romance </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/barber-shop-uncut/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-barbershopuncut.jpg</image:loc>
+        <image:title>Thunderkick - Barber Shop Uncut </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/babushkas/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-babushkas.jpg</image:loc>
+        <image:title>Thunderkick - Babushkas </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/hot-neon/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1882,7 +2406,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/wild-shark/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1891,8 +2415,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/esqueleto-explosivo-2/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-esqueletoexplosivo2.jpg</image:loc>
+        <image:title>Thunderkick - Esqueleto Explosivo 2 </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/dragons-kingdom/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1901,8 +2435,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/fruit-warp/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-fruitwarp.jpg</image:loc>
+        <image:title>Thunderkick - Fruit Warp </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/merry-fruits/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1911,18 +2455,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/wild-7/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/wild7.jpg</image:loc>
-        <image:title>Amatic - Wild 7</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/amatic/book-of-queen/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1931,8 +2465,18 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/amatic/wild-7/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/wild7.jpg</image:loc>
+        <image:title>Amatic - Wild 7</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/billyonaire/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1941,18 +2485,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/fiery-fruits/</loc>
-    <lastmod>2021-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/fieryfruits.png</image:loc>
-        <image:title>Amatic - Fiery Fruits</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://jozzcasino.github.io/igrosoft/resident/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1961,18 +2495,28 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/arising-phoenix/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/amatic/fiery-fruits/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/arisingphoenix.jpg</image:loc>
-        <image:title>Amatic - Arising Phoenix</image:title>
+        <image:loc>https://jozzcasino.github.io/images/amatic/fieryfruits.png</image:loc>
+        <image:title>Amatic - Fiery Fruits</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/beat-the-beast-cerberus-inferno/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-beatthebeastcerberusinferno.jpg</image:loc>
+        <image:title>Thunderkick - Beat The Beast Cerberus Inferno </image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/lady-fruits-40-easter/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -1981,18 +2525,28 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/book-of-aztec-select/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/thunderkick/flux/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/bookofaztecselect.jpg</image:loc>
-        <image:title>Amatic - Book Of Aztec Select</image:title>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-flux.jpg</image:loc>
+        <image:title>Thunderkick - Flux </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/amatic/arising-phoenix/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/arisingphoenix.jpg</image:loc>
+        <image:title>Amatic - Arising Phoenix</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/party-time/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -2001,18 +2555,18 @@
       </image:image>
   </url>
   <url>
-    <loc>https://jozzcasino.github.io/amatic/buffalo-thunderstacks/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <loc>https://jozzcasino.github.io/amatic/book-of-aztec-select/</loc>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://jozzcasino.github.io/images/amatic/buffalothunderstacks.png</image:loc>
-        <image:title>Amatic - Buffalo Thunderstacks</image:title>
+        <image:loc>https://jozzcasino.github.io/images/amatic/bookofaztecselect.jpg</image:loc>
+        <image:title>Amatic - Book Of Aztec Select</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/vampires/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -2021,8 +2575,38 @@
       </image:image>
   </url>
   <url>
+    <loc>https://jozzcasino.github.io/thunderkick/yeti-battle-of-greenhat-peak/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-yeti.jpg</image:loc>
+        <image:title>Thunderkick - Yeti Battle Of Greenhat Peak </image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/amatic/buffalo-thunderstacks/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/amatic/buffalothunderstacks.png</image:loc>
+        <image:title>Amatic - Buffalo Thunderstacks</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://jozzcasino.github.io/thunderkick/midas-golden-touch/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://jozzcasino.github.io/images/thunderkick/TK-midasgoldentouch.jpg</image:loc>
+        <image:title>Thunderkick - Midas Golden Touch </image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://jozzcasino.github.io/amatic/nicer-dice-40/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -2032,7 +2616,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/hot-fruits-40/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -2042,7 +2626,7 @@
   </url>
   <url>
     <loc>https://jozzcasino.github.io/amatic/mermaids-gold/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
